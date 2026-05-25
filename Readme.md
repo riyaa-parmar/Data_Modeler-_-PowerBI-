@@ -74,3 +74,13 @@ This project demonstrates Data Modeling concepts in Power BI using:
 
 ---
 
+## 👩‍💻 Author
+
+**Riya Parmar**
+
+GitHub:  
+https://github.com/riyaa-parmar
+
+---
+
+⭐ If you find these projects useful, consider **starring the repository**!
