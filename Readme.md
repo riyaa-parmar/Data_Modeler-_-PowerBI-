@@ -1,6 +1,6 @@
-# Power BI Data Modeling Project
+# 📊 Power BI Data Modeling Project
 
-## Overview
+## 📌 Overview
 
 This project demonstrates Data Modeling concepts in Power BI using:
 - Fact Tables
@@ -14,14 +14,14 @@ This project demonstrates Data Modeling concepts in Power BI using:
 
 ---
 
-# Tools Used
+# 🛠️ Tools Used
 
 - Microsoft Power BI Desktop
 - Power Query Editor
 
 ---
 
-# Tables Used
+# 📂 Tables Used
 
 ## Fact Tables
 - Sales_Fact
@@ -35,7 +35,7 @@ This project demonstrates Data Modeling concepts in Power BI using:
 
 ---
 
-# Features
+# ✨ Features
 
 - Data Cleaning using Power Query
 - Relationship Creation
@@ -47,7 +47,7 @@ This project demonstrates Data Modeling concepts in Power BI using:
 
 ---
 
-# Concepts Used
+# 📖 Concepts Used
 
 - Fact Table
 - Dimension Table
@@ -62,17 +62,18 @@ This project demonstrates Data Modeling concepts in Power BI using:
 
 ---
 
-# Project Workflow
+# 🔄 Project Workflow
 
-1. Imported Data
-2. Cleaned and Transformed Data
-3. Created Relationships
-4. Applied Cardinality
-5. Built Star Schema
-6. Created Hierarchies
-7. Verified Model using Matrix Tables
+1. Imported Data  
+2. Cleaned and Transformed Data  
+3. Created Relationships  
+4. Applied Cardinality  
+5. Built Star Schema  
+6. Created Hierarchies  
+7. Verified Model using Matrix Tables  
 
 ---
+
 
 ## 👩‍💻 Author
 
