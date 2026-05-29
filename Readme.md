@@ -102,25 +102,24 @@ This project demonstrates Data Modeling concepts in Power BI using:
 
 ---
 
-# 📁 Folder Structure
-
-Data_Modeler_PowerBI/
-
-├── README.md
-
-├── excel_dataset/
-│   ├── Sales_Fact.xlsx
-│   ├── Returns_Fact.xlsx
+📁 Folder Structure
+Data_Modeler_PowerBI
+│
+├── Document
+│   └── Data Modeler (Project Report).pdf
+│
+├── PowerBI_File
+│   └── Data Modeler.pbix
+│
+├── excel_dataset
 │   ├── Customer_Dim.xlsx
+│   ├── Date_Dim.xlsx
 │   ├── Product_Dim.xlsx
 │   ├── Region_Dim.xlsx
-│   └── Date_Dim.xlsx
-
-├── PowerBI_File/
-│   └── Data Modeler.pbix
-
-├── Document/
-│   └── Data Modeler_(Project Report).pdf
+│   ├── Returns_Fact.xlsx
+│   └── Sales_Fact.xlsx
+│
+└── Readme.md
 
 ---
 
