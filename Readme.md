@@ -102,7 +102,9 @@ This project demonstrates Data Modeling concepts in Power BI using:
 
 ---
 
-📁 Folder Structure
+## 📁 Folder Structure
+
+```text
 Data_Modeler_PowerBI
 │
 ├── Document
@@ -120,6 +122,7 @@ Data_Modeler_PowerBI
 │   └── Sales_Fact.xlsx
 │
 └── Readme.md
+```
 
 ---
 
